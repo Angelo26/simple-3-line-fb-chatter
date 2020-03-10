@@ -1,3 +1,5 @@
+
+#Note: First install fbchat in python. you can sin simply do that by "pip install fbchat".
 import fbchat
 from fbchat import Client
 from time import sleep
